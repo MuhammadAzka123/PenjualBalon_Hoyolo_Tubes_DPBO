@@ -12,7 +12,7 @@
 
   <properties>
     <sonar.host.url>http://localhost:9000</sonar.host.url>
-    <sonar.token>sqp_your_actual_token_here</sonar.token>
+    <sonar.token>sqp_3831c65caf7096452dafee50a69286aa4c270535</sonar.token>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
