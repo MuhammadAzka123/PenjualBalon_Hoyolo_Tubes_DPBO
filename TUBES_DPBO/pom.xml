@@ -11,10 +11,6 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <sonar.host.url>http://localhost:9000</sonar.host.url>
-    <sonar.token>sqp_3831c65caf7096452dafee50a69286aa4c270535</sonar.token>
-    <sonar.projectKey>mod8_103022400048</sonar.projectKey>
-    <sonar.projectName>mod8_103022400048</sonar.projectName>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
@@ -26,14 +22,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>3.10.0.2594</version>
-      </plugin>
-    </plugins>
   </build>
 </project>
